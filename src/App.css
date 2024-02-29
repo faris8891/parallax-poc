@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+*{
+  font-family: "roboto";
+}
+#root {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+  color: white;
+  font-size: 8rem;
+  -webkit-text-stroke: 3px #000;
+}
